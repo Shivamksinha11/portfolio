@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4e2b01cc.chunk.css",
+    "main.js": "/portfolio/static/js/main.7f346009.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7f346009.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.9508d2da.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9508d2da.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7caaad12.chunk.js": "/portfolio/static/js/2.7caaad12.chunk.js",
+    "static/js/2.7caaad12.chunk.js.map": "/portfolio/static/js/2.7caaad12.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4e2b01cc.chunk.css.map": "/portfolio/static/css/main.4e2b01cc.chunk.css.map",
+    "static/js/2.7caaad12.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7caaad12.chunk.js.LICENSE.txt",
+    "static/media/1200px-Oracle_SQL_Developer_logo.svg.6aea7dc5.png": "/portfolio/static/media/1200px-Oracle_SQL_Developer_logo.svg.6aea7dc5.png",
+    "static/media/C++.89dbafc1.png": "/portfolio/static/media/C++.89dbafc1.png",
+    "static/media/C.711c2a38.webp": "/portfolio/static/media/C.711c2a38.webp",
+    "static/media/adobeXD.71f4a396.png": "/portfolio/static/media/adobeXD.71f4a396.png",
+    "static/media/bootstrap.bfdaa106.png": "/portfolio/static/media/bootstrap.bfdaa106.png",
+    "static/media/calculator.350b6e5f.png": "/portfolio/static/media/calculator.350b6e5f.png",
+    "static/media/css.f5af366e.png": "/portfolio/static/media/css.f5af366e.png",
+    "static/media/cv.b642620b.jfif": "/portfolio/static/media/cv.b642620b.jfif",
+    "static/media/Head.css": "/portfolio/static/media/download.ac610fde.png",
+    "static/media/expressjs.cc5d8b04.png": "/portfolio/static/media/expressjs.cc5d8b04.png",
+    "static/media/favicon.ad9ff919.ico": "/portfolio/static/media/favicon.ad9ff919.ico",
+    "static/media/instagram.1bf49e11.png": "/portfolio/static/media/instagram.1bf49e11.png",
+    "static/media/kiit.4f056c1c.jpg": "/portfolio/static/media/kiit.4f056c1c.jpg",
+    "static/media/modern.d008e559.jfif": "/portfolio/static/media/modern.d008e559.jfif",
+    "static/media/postman.d4bb0b80.png": "/portfolio/static/media/postman.d4bb0b80.png",
+    "static/media/project1.00efb3d3.png": "/portfolio/static/media/project1.00efb3d3.png",
+    "static/media/project2.88bdf0e1.png": "/portfolio/static/media/project2.88bdf0e1.png",
+    "static/media/python.ecfb4e6f.png": "/portfolio/static/media/python.ecfb4e6f.png",
+    "static/media/shivam.84c53979.JPG": "/portfolio/static/media/shivam.84c53979.JPG",
+    "static/media/whatsapp.ff54771a.png": "/portfolio/static/media/whatsapp.ff54771a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9508d2da.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7caaad12.chunk.js",
+    "static/css/main.4e2b01cc.chunk.css",
+    "static/js/main.7f346009.chunk.js"
+  ]
+}
