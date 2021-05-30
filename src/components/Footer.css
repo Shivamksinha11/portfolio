@@ -1,0 +1,36 @@
+.footer{
+    margin-top: 20px;
+    background-color: rgb(29, 30, 32);
+    color: white;
+    padding-top: 30px;
+}
+a{
+    text-decoration: none;
+}
+.whatsapp{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+}
+.contact{
+    padding: 10px 5px;
+}
+
+.phone{
+    color: #03e9f4;
+    font-weight: bold;
+}
+.number{
+    color: white;
+}
+.number:hover{
+    color: rgb(224,27,108);
+}
+.shiv{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.abcd{
+    position: relative;
+}

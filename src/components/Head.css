@@ -1,0 +1,56 @@
+.heading{
+    width: 100%;
+    height: 100% !important;
+    background-image: url("../images/download.png");
+    background-size: cover;
+}
+.header{
+    text-align: center;
+    line-height: 1.5;
+    padding-top: 17.5%;
+    padding-bottom: 270px;
+}
+.heading-primary{
+ 
+    color: white;
+    font-size: 40px;
+}
+.subheader2{
+    display: block;
+}
+.name{
+    color: rgb(224,27,108);
+}
+
+.arrow{
+    padding-left: 10px;
+    font-size: 30px;
+}
+
+.neo {
+    padding: 20px 20px;
+    display: inline-block;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    overflow: hidden;
+    background: linear-gradient(90deg,transparent,#03e9f4);
+    padding: 1px 8px 8px 10px;
+    background-color: rgb(37,41,52);
+    border: none;
+    transition: 0.5s ease;
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+
+/*creating animation effect*/
+.neo:hover {
+    background: #03e9f4;
+    color: #050801;
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03e9f4,
+                0 0 200px #03e9f4;
+}

@@ -1,0 +1,14 @@
+b{
+    color: rgb(220 30 100);
+    margin-left: 50px;
+}
+
+
+.abc{
+    border-bottom: 2px solid rgba(0, 225, 255, 0.945);
+    background-color: rgb(29, 30, 32);
+}
+.logo{
+    width: 30px;
+    height: 30px;
+}

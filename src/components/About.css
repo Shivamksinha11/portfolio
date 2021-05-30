@@ -1,0 +1,35 @@
+.image{
+    width: 400px;
+    height: 350px;
+    clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%);
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.aboutme{
+    color: #000000;
+    font-weight: 800;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+.text{
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(98,98,98);
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+.subtext{
+    font-size: 20px;
+    font-weight: 500;
+}
+.about{
+    margin-top: 50px;
+}
+

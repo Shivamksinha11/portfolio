@@ -1,0 +1,39 @@
+.projects{
+    color: #000000;
+    font-weight: 800;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
+.card{
+    margin-bottom: 20px;
+}
+
+.neo2{
+    display: inline-block;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    overflow: hidden;
+    background: linear-gradient(90deg,transparent,#09129b);
+    padding: 1px 8px 8px 10px;
+    background-color: rgb(152, 155, 163);
+    border: none;
+    transition: 0.5s ease;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+
+}
+.arrow2{
+padding-left: 10px;
+font-size: 20px;
+}
+.neo2:hover {
+background: #09129b;
+box-shadow: 0 0 5px #09129b,
+            0 0 25px #09129b,
+            0 0 50px #09129b,
+            0 0 200px #09129b;
+}
+  

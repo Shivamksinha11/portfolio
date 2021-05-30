@@ -1,0 +1,29 @@
+.icons{
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    transition: all 0.6s ease;
+}
+.icongrp{
+    margin-bottom: 50px;
+}
+.tools{
+    padding-left: 20px;
+    margin-top: 20px;
+}
+.icons:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+.icons:active{
+    transform: translateY(-1px);
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+.lang{
+    color: #000000;
+    font-weight: 800;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
